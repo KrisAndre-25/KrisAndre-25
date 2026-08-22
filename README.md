@@ -44,6 +44,6 @@
 ### 📈 Estadísticas en GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KrisAndre-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAndre-25&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KrisAndre-25&show_icons=true&theme=tokyonight&hide_border=true" alt="Kristopher's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAndre-25&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
