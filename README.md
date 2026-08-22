@@ -41,9 +41,9 @@
 
 ---
 
-### 📈 Estadísticas en GitHub
+### 📈 Actividad y Métricas en GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KrisAndre-25&show_icons=true&theme=tokyonight&hide_border=true" alt="Kristopher's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisAndre-25&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrisAndre-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrisAndre-25&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="Activity Graph" />
 </div>
