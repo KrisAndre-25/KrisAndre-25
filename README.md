@@ -44,6 +44,6 @@
 ### 📈 Actividad y Métricas en GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrisAndre-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=KrisAndre-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrisAndre-25&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="Activity Graph" />
 </div>
