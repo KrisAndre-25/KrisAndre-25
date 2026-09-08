@@ -13,10 +13,6 @@ Desarrollador Full Stack & QA Automation · Duoc UC · Santiago, Chile
 
 Construyo aplicaciones web completas, del frontend en React a la API en Spring Boot, y las pruebo de forma automatizada antes de que lleguen a producción.
 
-- Portafolio: https://kristopher-astudillo-portfolio.netlify.app
-- LinkedIn: https://linkedin.com/in/kristopher-astudillo-durán-b69083312
-- Email: kristopherastudillo@gmail.com
-
 ---
 
 ## Lo que hago
